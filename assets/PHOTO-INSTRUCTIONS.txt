@@ -1,0 +1,5 @@
+Add your portrait here as profile.jpg (lowercase).
+Recommended: JPG, portrait orientation, at least 600 x 720 pixels.
+The website shows your initials until the photo is added.
+For a PNG photo, change assets/profile.jpg to assets/profile.png in index.html.
+The top portrait uses object-fit: cover; adjust object-position in styles.css if needed.
